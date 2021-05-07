@@ -43,6 +43,4 @@ Nhấn Thêm bí mật
 Đi tới Hành động> CI> Chạy dòng công việc
 Tải lại trang và nhấn CI> xây dựng
 Nhấn mũi tên xuống trên Kết nối với RDP của bạn để lấy IP, Người dùng, Mật khẩu.
-NẾU REPO CỦA TÔI BỊ XÓA, TRÊN GITHUB CỦA BẠN, HÃY ĐẾN .github / workflows> main.yml VÀ CHỈNH SỬA LIÊN KẾT MỚI CHO REPO CỦA BẠN. TẤT CẢ .BAT trong Tệp FOLDER
-
-VUI LÒNG KHÔNG KHAI THÁC CRYPTO LẠI *
+NẾU REPO CỦA TÔI BỊ XÓA, TRÊN GITHUB CỦA BẠN, HÃY ĐẾN .github / workflows> main.yml VÀ CHỈNH SỬA LIÊN KẾT MỚI CHO REPO CỦA BẠN. TẤT CẢ .BAT trong Tệp FOLD
