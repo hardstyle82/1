@@ -21,8 +21,6 @@ NẾU REPO CỦA TÔI BỊ XÓA, TRÊN GITHUB CỦA BẠN, HÃY ĐẾN .github /
 VUI LÒNG KHÔNG KHAI THÁC CRYPTO LẠI *
 Tạo một VPS miễn phí với 2cpu-7gb Ram MIỄN PHÍ với Github:
 
-Chờ đợi Châu Á
-
 Nhấp vào Fork ở góc bên phải của màn hình để lưu nó vào Github của bạn.
 Truy cập https://dashboard.ngrok.com để nhận NGROK_AUTH_TOKEN
 Trong Github, đi tới Cài đặt> Bí mật> Bí mật về kho lưu trữ mới
