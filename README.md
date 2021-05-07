@@ -7,9 +7,6 @@ Liên kết repo:  Windows Server 2019 Github với RDP Access (ngrok US)
 Liên kết repo: https://github.com/lam23011959/RDPWindows2019
 
 Tạo một VPS miễn phí với 2cpu-7gb Ram MIỄN PHÍ với Github:
-
-Chờ đợi Châu Á
-
 Nhấp vào Fork ở góc bên phải của màn hình để lưu nó vào Github của bạn.
 Truy cập https://dashboard.ngrok.com để nhận NGROK_AUTH_TOKEN
 Trong Github, đi tới Cài đặt> Bí mật> Bí mật về kho lưu trữ mới
