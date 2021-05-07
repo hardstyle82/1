@@ -32,8 +32,6 @@ Tải lại trang và nhấn CI> xây dựng
 Nhấn mũi tên xuống trên Kết nối với RDP của bạn để lấy IP, Người dùng, Mật khẩu.
 NẾU REPO CỦA TÔI BỊ XÓA, TRÊN GITHUB CỦA BẠN, HÃY ĐẾN .github / workflows> main.yml VÀ CHỈNH SỬA LIÊN KẾT MỚI CHO REPO CỦA BẠN. TẤT CẢ .BAT trong Tệp FOLDER
 
-VUI LÒNG KHÔNG KHAI THÁC CRYPTO LẠI * (repo chính đã được sửa đổi)
-
 Tạo một VPS miễn phí với 2cpu-7gb Ram MIỄN PHÍ với Github:
 
 Nhấp vào Fork ở góc bên phải của màn hình để lưu nó vào Github của bạn.
